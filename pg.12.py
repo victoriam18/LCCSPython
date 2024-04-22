@@ -1,0 +1,5 @@
+#print("Please Enter Your Name")
+your_name = input("Please enter Your Name ")
+#print("Enter Your Address")
+your_addr = input ("Please Enter Your Address ")
+print("My Name is " , your_name , "My address is ", your_addr)
